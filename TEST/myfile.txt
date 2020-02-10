@@ -1,2 +1,4 @@
 this is a text file, changes made
 to this file
+
+this is the bug fix
